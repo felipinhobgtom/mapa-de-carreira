@@ -1,0 +1,62 @@
+body{
+    background-color: #1E1D1D;
+}
+
+header{
+    overflow: hidden;
+    border-radius: 15px  15px 0 0;
+
+    & .picture{
+        position: relative;
+        bottom: 20%;
+    }
+}
+
+header .row{
+    background: #FABC3F;
+}
+
+article .documento{
+    border-radius: 20px;
+}
+
+.primary-info .name{
+    color: #1E1D1D;
+}
+
+.resume-body{
+    background-color: #202020;
+}
+
+.theme-progress-bar-dark{
+    background: #FABC3F;
+}
+
+.resume-skills-cat{
+    color: #FABC3F;
+}
+
+.resume-skill-name{
+    color: #fff;
+}
+
+.resume-section-title{
+    color: #FABC3F;
+}
+
+.resume-position-title{
+    color: #FABC3F;
+}
+
+.resume-body{
+    border-radius: 0 0 15px 15px;
+}
+
+.badge.badge-light{
+    background-color: #FABC3F;
+    color: #000;
+}
+
+.badge{
+    color: #FABC3F;
+}
